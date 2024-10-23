@@ -9,6 +9,8 @@ body {
     font-size: 36px;
     color: #1f2937;
     font-weight: 900;
+    justify-content: center;
+    display: flex;
 }
 .quotesection {
     background: #e5e7eb;
@@ -19,7 +21,28 @@ body {
     color: #1f2937;
 }
 .actionbutton {
-    background: #3882f6;
+    background: #3882f6 ;
+}
+.quadimg {
+    display: flex;
+    gap: 2em;
+    justify-content: center;
+}
+.signa {
+    font-size: 20px;
+    font-weight: 900;
+    color: #1f2937;
+}
+.imgs {
+    border: 3.5px solid #3882f6;
+    border-radius: 1.2em;
+    height: 10em;
+    width: 10em;
+}
+button {
+    background-color: #3882f6;
+    color: white;
+    border-radius: .2em;
 }
 .linkone, .linktwo, .linkthree {
     font-size: 18px;
