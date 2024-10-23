@@ -1,0 +1,50 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #f9faf8;
+}
+.nav, .top-area {
+    background: #1f2937;
+}
+.rand {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+}
+.quotesection {
+    background: #e5e7eb;
+}
+.quote {
+    font-size: 36px;
+    font-style: oblique;
+    color: #1f2937;
+}
+.actionbutton {
+    background: #3882f6;
+}
+.linkone, .linktwo, .linkthree {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+a:link {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+  }
+  
+  a:visited {
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    font-size: 18px;
+    color: #e5e7eb;
+  }
+  
+  a:active {
+    text-decoration: underline;
+    font-size: 18px;
+    color: #e5e7eb;
+  }
